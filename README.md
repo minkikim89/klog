@@ -1,9 +1,6 @@
 # klog
 klog is a simple logger for c language.
 
-# Level
-TRACE, DEBUG, INFO(default), WARN, ERROR, FATAL
-
 # Screenshot
 - Console log mode
 
@@ -12,6 +9,9 @@ TRACE, DEBUG, INFO(default), WARN, ERROR, FATAL
 - File log mode
 
 <img width="850" alt="screenshot_file" src="https://user-images.githubusercontent.com/12155982/68599412-dcfee100-04e3-11ea-9757-78c479b12545.png">
+
+# Level
+TRACE, DEBUG, INFO(default), WARN, ERROR, FATAL
 
 # Feature
 - Thread-safe

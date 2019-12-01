@@ -17,6 +17,7 @@ TRACE, DEBUG, INFO(default), WARN, ERROR, FATAL
 - Thread-safe
 - Color print
 - Logs to console, file
+- File log lotation (by file size)
 
 # usage
 Copy klog.c, klog.h files and compile with your project.
